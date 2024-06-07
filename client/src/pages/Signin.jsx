@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Signin = () => {
+const  Signin = () => {
   return (
-    <div>Signin</div>
+    <div> Sign in</div>
   )
 }
 
